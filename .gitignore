@@ -10,3 +10,5 @@ assets/videos/
 !assets/videos/tour_*.mp4
 
 # question: would log/archive/access.log be ignored? No.
+tempfile.txt
+*.txt
